@@ -1,0 +1,19 @@
+
+
+Step 1
+=Fill up the DOH forms provided with dummy data using your or another person's handwriting. Think of what a patient’s records would look like. Give realistic data but avoid providing personal / identifiable information.
+	*You can print out the forms, fill it up with a pen, and scan it. This would emulate the real-world scenario of people filling out documents manually.
+	*Alternatively, you can save the forms as images and write on those digitally. Use a drawing pad, digipen, or stylus for better results (optional).
+	*Typing directly onto the PDF is not allowed. We want to have data representing real-world scenarios.
+	*Overall, you will have 6 filled-up forms for your use in the coming weeks. Save them as images or individual PDFs.
+
+Step 2
+=Look for a demo on the service’s website. Some have a section where you can upload your image and get the extracted text. Process the forms you’ve filled up through this.
+
+Step 3
+=Look at the extracted text on the output file. Compare it side-by-side with the image of your form and determine which characters it got wrong. See if there are patterns that emerge from these errors.
+
+Try this with the other platforms as well. Others might provide different, or even better, results for these types of documents (forms).
+
+Step 4
+=Document your process and compile it into a PDF, together with the pre-filled forms and extracted text side-by-side.
